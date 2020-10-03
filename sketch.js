@@ -45,7 +45,7 @@ function setup() {
 }
 
 function draw(){
-  background("lightgreen");
+  background("yellow");
   
   textSize(30);
   fill("brown");
